@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<nidocument>
+<nicomment>
+This error case for RF Emulator project
+<nifamily familyname="RF Emulator" displayname="RF Emulator">
+</nifamily>
+</nicomment>
+<nierror code="5001">
+Îøèáêà èíèöèàëèçàöèè
+</nierror>
+<nierror code="5002">
+Âíóòðåíÿÿ îøèáêà ýìóëÿòîðà
+</nierror>
+</nidocument>

@@ -1,0 +1,2 @@
+Закрытие приложения
+Server Tester sent Stop Message.

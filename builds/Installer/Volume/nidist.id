@@ -1,0 +1,10 @@
+[Volume Id]
+DistributionGUID={095C2481-690C-4785-9428-026877DE87EA}
+DistPackageGUID={7CC0C8F8-AD0C-4440-AE23-A8B36FB7A2B5}
+DistributionVersion=1.0.3
+DistributionType=MDF
+DistributionLanguage=9
+Volume=1
+TotalNumberOfVolumesInDistribution=1
+ExePath=Emulator RFID.exe
+UpdateInfoFile=supportfiles\updateInfo.xml
